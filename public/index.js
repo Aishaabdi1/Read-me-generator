@@ -69,12 +69,6 @@ const questions = () => {
     },
     {
       type: "input",
-      name: "tests",
-      message:
-        "Enter information about any tests running currently in the application",
-    },
-    {
-      type: "input",
       name: "email",
       message: "Please enter your developers Email address",
     },
@@ -86,7 +80,7 @@ const questions = () => {
   ]);
 };
 
-// write read me file and log any errors if so..
+// This will ceate a readme file with ansers
 
 const init = () => {
   questions().then((answers) => {
