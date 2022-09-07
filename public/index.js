@@ -89,7 +89,7 @@ const questions = () => {
       const ReadmeStuff = GenREADME(answers);
   
       fs.writeFile("README.md", ReadmeStuff, (err) =>
-        err ? console.log(err) : console.log("Woohoo! Read Me Generated!")
+        err ? console.log(err) : console.log("Successful. Read me Created.")
       );
     });
   };
