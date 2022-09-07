@@ -1,21 +1,19 @@
-// Following are packages that are needed 
 const inquirer = require("inquirer");
 const fs = require("fs");
 
-// Create an array of questions for user input
 
-// questions the user will enter - these will be pasted into HTML 
+// These are the questions the user will be prompted to answer  
 const questions = () => {
   return inquirer.prompt([
     {
       type: "input",
       name: "title",
-      message: "Please write down the title of your application",
+      message: "Title of your application",
     },
     {
       type: "input",
       name: "description",
-      message: "Please write a description of your application",
+      message: "detailed descripiton?",
     },
     {
       type: "input",
