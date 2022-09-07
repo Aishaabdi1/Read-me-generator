@@ -9,3 +9,7 @@ I have created a read me generator that allows user to answer questions that wil
 
 # Installation process
 * Clone repository 
+* Do an npm install - this will installed all the required dependencies needed.
+* run the file by writing 'node index.js' 
+* Questions will be displayed in terminal which you will be prompted to answer
+* Once done, a read me file will be created 
