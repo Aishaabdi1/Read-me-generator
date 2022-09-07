@@ -13,3 +13,9 @@ I have created a read me generator that allows user to answer questions that wil
 * run the file by writing 'node index.js' 
 * Questions will be displayed in terminal which you will be prompted to answer
 * Once done, a read me file will be created 
+
+# Contributers
+Just me
+
+# Contact me
+If you have any questions about this work please feel free to contact me on urgyal-aishaabdi-0121@gmail.com
