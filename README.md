@@ -14,6 +14,9 @@ I have created a read me generator that allows user to answer questions that wil
 * Questions will be displayed in terminal which you will be prompted to answer
 * Once done, a read me file will be created 
 
+# Walkthrough video
+https://drive.google.com/file/d/1JhHYkXIFVKuKCWpQ6ZYh8Sn37tM9wJKx/view 
+
 # Contributers
 Just me
 

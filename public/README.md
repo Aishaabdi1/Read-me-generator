@@ -1,8 +1,8 @@
-None
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Title 
-
+Professional Read Me Generator
 # Description Of Application 
-h
+Users a prompted to answer questions, once completed a readme file will be generated with the questions and answers gibven
 # Table of contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,19 +11,19 @@ h
 * [Tests](#tests)
 ### Installation Information
 <a name ="installation"> </a>
-te
+clone respository, npm install and then node index.js
 ### Usage Information
 <a name ="usage"> </a>
-eh
+none
 ### License Information
 <a name ="license"> </a>
-None
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### Contributions
 <a name ="contributions"> </a>
-hr
+Just myself!!!!!1
 ### Tests Information
 <a name ="tests"> </a>
-s
+undefined
 # Questions
-Any questions for me? Send me a direct email on g.
-You can also visit my Github profile here www.github.com/w
+Any questions for me? Send me a direct email on bad-gyal-aishaabdi-0121@gmail.com.
+You can also visit my Github profile here www.github.com/aishaabdi1
