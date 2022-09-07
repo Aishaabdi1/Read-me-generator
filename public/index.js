@@ -10,3 +10,14 @@ const questions = () => {
         name: "title",
         message: "Please write down the title of your application",
       },
+      {
+        type: "input",
+        name: "description",
+        message: "Write a brief description of the application",
+      },
+      {
+        type: "input",
+        name: "installation",
+        message: "Please enter any installation instructions",
+      },
+      {
